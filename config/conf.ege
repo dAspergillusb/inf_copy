@@ -1,0 +1,60 @@
+[Conf path]
+conf_path=config\conf.ege
+[End confpath]
+
+[Exam config]
+exam_date=2024.04.27
+[End config]
+
+[Program names/paths]
+Станция_КЕГЭ="C:\Program Files\Станция КЕГЭ\KEGE.exe"
+Microsoft_Excel="C:\Program Files\Microsoft Office\Office16\EXCEL.exe"
+Libre_Calc="C:\Program Files\LibreOffice\program\scalc.exe"
+Microsoft_Word="C:\Program Files\Microsoft Office\Office16\WINWORD.exe"
+Libre_Writer="C:\Program Files\LibreOffice\program\swriter.exe"
+Microsoft_PowerPoint="C:\Program Files\Microsoft Office\Office16\POWERPNT.exe"
+Libre_Impress="C:\Program Files\LibreOffice\program\simpress.exe"
+Sublime_Text="C:\Program Files\Sublime Text\sublime_text.exe"
+Кумир_Стандарт="C:\Program Files (x86)\Kumir-2.1.0-rc11\bin\kumir2-classic.exe"
+Кумир="C:\Program Files (x86)\Kumir\kumir.exe"
+Visual_Studio="C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\devenv.exe"
+CodeBlocks="C:\Program Files\CodeBlocks\codeblocks.exe"
+Free_Pascal="C:\FPC\3.2.0\bin\i386-win32\fp.exe"
+Pascal_ABC="C:\Program Files (x86)\PascalABC.NET\PascalABCNET.exe"
+Java_JDK="C:\Program Files\Java\jdk-11.0.8\bin\java.exe"
+Intellij_Idea="C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.2.3\bin\idea64.exe"
+Eclipse_IDE="C:\Users\zelentsovna\eclipse\java-2021-09\eclipse\eclipse.exe"
+Python_IDE="C:\Program Files\Python313\pythonw.exe"
+Wing_IDE="C:\Program Files (x86)\Wing 101 8\bin\wing-101.exe"
+PyCharm="C:\Program Files\Pycharm Community\bin\pycharm64.exe"
+Far_Manager="C:\Program Files\Far Manager\Far.exe"
+Total_Commander="C:\Program Files\totalcmd\TOTALCMD64.exe"
+Google_Chrome="C:\Program Files\Google\Chrome\Application\chrome.exe"
+[End paths]
+
+[Constants]
+KEGE_VER=20240222
+EXCEL_VER=20150731
+CALC_VER=20211205
+WORD_VER=20150731
+WRITER_VER=20211205
+POWERPOINT_VER=20150731
+IMPRESS_VER=20211205
+SUBLIME_VER=20211221
+KUMIR_STD_VER=20200414
+KUMIR_VER=20120309
+VIS_STUD_VER=20210513
+CODEBLOCKS_VER=20200314
+FREE_PASCAL_VER=20200604
+PASCAL_ABC_VER=20210502
+JAVA_VER=20210511
+INT_IDEA_VER=20201006
+ECLIPSE_VER=20210906
+PYTHON_VER=20200923
+WING_VER=20211211
+PYCHARM_VER=20201006
+FAR_VER=20220202
+TOT_COMM_VER=20210610
+GOOG_CHR_VER=20231220
+[End constants]
+
